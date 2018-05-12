@@ -1,0 +1,47 @@
+_repo: Os-meus-amores--contos-e-balladas_17503
+_version: 0.1.0
+alternative_title: 'Os meus amores: Contos e baladas'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coelho, Trindade
+    aliases:
+    - Coelho, José Francisco Trindade
+    - Trindade Coelho, José Francisco
+    - Coelho, Jose Francisco Trindade
+    birthdate: 1861
+    deathdate: 1908
+    gutenberg_agent_id: '7428'
+    url: http://www.gutenberg.org/2009/agents/7428
+    wikipedia: http://pt.wikipedia.org/wiki/Trindade_Coelho
+description: ''
+edition_note: 2ª edição
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2006-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17503'
+language: pt
+language_note: "This ebook uses a 19th century spelling.\r\nFor a spelling modernization\
+  \ following Standard Portuguese from the beginning of the 21st century see: Base\
+  \ Directory"
+production_note: "Produced by Carla Martins Ramos and Ricardo Diogo. Edited\r\nby\
+  \ Rita Farinha (Biblioteca Nacional\r\nDigital--http://bnd.bn.pt). (This file was\
+  \ produced from\r\nimages generously made available by National Library of\r\nPortugal\
+  \ (Biblioteca Nacional de Portugal)"
+publication_note: "Lisboa:\r\nLivraria de Antonio Maria Pereira\r\n50, 52--Rua Augusta--52,\
+  \ 54\r\nTypographia e Stereotypia Moderna\r\n11--Apostolos--11\r\n1894"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Portuguese'
+- !lcsh 'Portuguese fiction -- 19th century'
+- !lcc 'PQ'
+tableOfContents: Idyllio rustico -- Sultão -- Ultima dadiva -- Preludios de festa
+  -- Typos da terra -- Vae Victoribus -- Maricas -- Para a escola -- Tragedia rustica
+  -- Abyssus abyssum -- Mãe -- Arrulhos -- Batalhas domesticas.
+title: 'Os meus amores: contos e balladas'
+url: http://www.gutenberg.org/ebooks/17503
