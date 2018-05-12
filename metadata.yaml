@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7428
     wikipedia: http://pt.wikipedia.org/wiki/Trindade_Coelho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17503#Os-meus-amores--contos-e-balladas
 edition_note: 2ª edição
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2006-01-12'
